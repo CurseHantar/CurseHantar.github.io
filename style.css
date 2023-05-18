@@ -54,6 +54,27 @@
   height:30px;
 }
 
+#redesociales{
+  background-color: #00000057;
+  margin: auto;
+  
+  font-size: 10px;
+
+}
+
+#home-2{
+  background-image: url(https://i.imgur.com/kPs1bao.png);
+}
+
+#h1-color{
+  color: #ffffff;
+  border: #000;
+}
+
+.enlaces{
+  color: rgb(0, 0, 0);
+  
+}
 
 .contact{
   background-color: #e14870b8;
