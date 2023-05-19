@@ -43,19 +43,76 @@
   max-width: 180px;
 }
 
+#enl,#enl1,#enl2,#enl3,#enl4{
+  color: #ffffffac;
+}
+#enl{
+  color: rgb(5, 101, 255);
+}
+#enl1{
+  color: rgb(255, 66, 107);
+}
+#enl2{
+  color: rgb(44, 164, 255);
+}
+#enl3{
+  color: rgb(255, 255, 255);
+}
+
+#enl4{
+  color: rgb(32, 32, 32);
+}
+
 
 /*Todo los iconos de barra negra*/
 #iconos{
   width:90px ;
   height:80px;
 }
+#iconos1{
+  width:90px ;
+  height:80px;
+}
+#iconos2{
+  width:90px ;
+  height:80px;
+}
+#iconos3{
+  width:90px ;
+  height:80px;
+}
+
+
 #iconServ{
+  width:45px ;
+  height:30px;
+}
+#iconServ1{
   width:40px ;
   height:30px;
 }
 
+#iconServ2{
+  width:40px ;
+  height:30px;
+}
+#iconServ3{
+  width:50px ;
+  height:35px;
+}
+#iconServ4{
+  width:45px ;
+  height:35px;
+}
+#iconServ5{
+  width:50px ;
+  height:35px;
+}
+
+
+
 #redesociales{
-  background-color: #00000057;
+  background-color: #88888857;
   margin: auto;
   
   font-size: 10px;
@@ -72,8 +129,19 @@
 }
 
 .enlaces{
-  color: rgb(0, 0, 0);
-  
+  color: rgb(0, 0, 0);  
+}
+
+.despedida{
+  margin: 12px;
+  width: 600px;
+  height: 325px;
+  border-color: #ff3f36;
+
+}
+
+.probando{
+  text-align: center;
 }
 
 .contact{
